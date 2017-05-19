@@ -20,5 +20,11 @@ namespace CI_CD.Tests
         public void TestMethod3()
         {
         }
+
+        [TestMethod]
+        public void CheckTeamCity()
+        {
+            
+        }
     }
 }
